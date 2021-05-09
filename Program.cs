@@ -31,11 +31,11 @@ namespace IteratorsAndComparators
         // no aditional arguments are allowed in method declaration after param keyword,
         // and only one params keyword is allowed in method declaration
         //when You call a method with keyword params parameter you may pass in:
-        //comma separated list of arguments of teh type of teh array eleemtns
-        //an array of arguments of teh special type, 
+        //comma separated list of arguments of the type of the array elemetns
+        //an array of arguments of the special type, 
         //no arguments, if You send no arguments, the length of params list is zero/
         //with params keyword, a method can take a variable number of arguments. 
-        //it is useful when teh programmer does not  know how many parametes will take the method,
-        //only one keyword params is allowed in a method, after params keyword, no other paramter is allowed/
+        //it is useful when the programmer does not  know how many parameters will take the method,
+        //only one keyword params is allowed in a method, after params keyword, no other parameter is allowed/
     }
 }
